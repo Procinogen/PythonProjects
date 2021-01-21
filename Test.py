@@ -1,0 +1,4 @@
+winkyface = ';)'
+
+print winkyface
+
