@@ -3,4 +3,4 @@
 
 ## What is this?
 The vast majority of these scripts are just small ones I've made when I was learning Python.
-In the folder called **homework**, to automate a bunch of math homework I needed to do.
+In the folder called **homework**, there's just a script to automate a bunch of math homework I needed to do.
